@@ -1,0 +1,198 @@
+Bluehost Support
+End chat and take a survey?
+This chat has been closed due to inactivity
+B
+Tech Support: cPanel
+
+Want to get the domain to point to a temp html page
+12:09 am
+G
+Gowthami joined
+12:09 am
+B
+hello
+12:10 am
+G
+Welcome to Chat Support. I'm Gowthami and I'll be your Web Advisor today. Please give me a moment while I review your request. 
+12:10 am
+B
+i want my domain coyac.org to point to a specific temporary page
+i am not sure what file to upload it to
+12:10 am
+G
+ Hello, Brenda  . I understand it is important for you to resolve your concern. I'll assist you with this. 
+Please help me with the token number to pull up the account details. It has been sent to your registered email address. 
+12:11 am
+B
+hold on pls
+12:12 am
+G
+ Here's the link to get the token number: https://my.bluehost.com/hosting/token 
+Sure.
+12:12 am
+B
+this? 745646
+12:12 am
+G
+Perfect!
+12:13 am
+B
+great. can you help me get the domain to point to this temp html page?
+12:13 am
+G
+Could you please confirm me the domain name?
+12:14 am
+B
+i am not sure where to put the html and css files. i do not see the .htaccess file that is help docs talk about
+coyac.org
+12:14 am
+G
+Thank you for the domain name. I will have to put you on hold for 2-3 minutes to check your website details.
+12:15 am
+B
+ok
+right now when i type in coyac.org it goes to a page under http://engagedpublic.com/coyac-home.php
+hello?
+12:20 am
+G
+As I checked I could see the same the website page. I need additional 3-4 minutes to check few things.
+12:20 am
+B
+ok
+12:20 am
+G
+I could see that A record is not pointing to bluehost. Unfortunately we can't update any changes related to website.
+12:23 am
+B
+what does that mean? 
+tell me how to fix it and i can do it.
+what is A record?
+12:24 am
+G
+Let me give information about this.
+12:24 am
+B
+i can fix it if you tell me how
+12:25 am
+G
+As I checked 'A' record of the website is not pointing to blue host, since the A record is not with us we can't do any changes on the website. If you wish you can point the A record to bluehost , so that we can help you to assist with website issue.
+12:28 am
+B
+what is "A" record where do i see this?
+so i need to do something to the site that it is currently being pointed at? where is this located?
+12:32 am
+G
+A record is the website related record. 
+Please access this link to check: https://dnschecker.org/#A/coyac.org
+You need to contact registrar in order to update the A record to bluehost.
+12:34 am
+B
+all i want is to type in coyac.org have it point to coyac.org/application instead of http://engagedpublic.com/coyac-home.php
+i have no idea what A record has to do with this
+can we point whatever record we need to. i would like to get this completed. it has been almost 30 mins.
+12:35 am
+G
+I completely understand your concern, No need to worry . Please contact Registrar and ask to update the A record to 50.87.232.115  IP address. They will help you to update the A record.
+12:36 am
+B
+who is the registrar? is this a phone number?
+is this the bluehost registrar? i need a phone number?
+12:37 am
+G
+In order to update the A record you need to contact : .registrar-servers.com.	
+Unfortunately we don't have any contact number.
+12:39 am
+B
+ok the engagedpublic.com site has to be transferr
+ed to bluehost for you to help me. i feel like you are not be clear enough for me.
+what has to be transferred to bluehost? please be specific.
+i need specific directions. call what registar? ask them to update whose A record? the coyac.org record? the engagedpublic record?
+12:43 am
+G
+If you wish to transfer your website to bluehost, take the website backup files and upload in the bluhost account. Then you have to update the A record.
+12:44 am
+B
+coyac.org is with bluehost!
+12:44 am
+G
+Yes. coyac.org domain is in bluhost account but the website hosting provider is not Bluehost. The nameservers are not pointing to bluehost.
+12:46 am
+B
+coyac.org is not hosted with bluehost?
+how would i be able to see the c-Panel if it was not hosted by bluehost
+how would i be able to see anything on the ba
+ckend if it was not hosted by bluehost???
+there shouldn't be any files visible.
+12:49 am
+G
+Let me check the few more details for you. I will have to put you on hold for 2-3 minutes to check .
+12:51 am
+B
+where is coyac.org getting point to engagedpublic.com
+where is the control panel is that happening
+hello
+12:58 am
+G
+I'm still with you
+12:58 am
+B
+this should be pretty simple. the directions say go to the domains > redirects > type in the current address and then the new address. i really do not understand why this isn't working....
+1:00 pm
+G
+Thank you for being on hold. As I checked the details coyac.org domain A record is not pointing to bluehost. And while accessing  coyac.org it is redirecting to engagedpublic.com domain and this is not done by our end. In order to remove those redirection you need to contact website provider . If you wish to have the website content of engagedpublic.com domain in your account the n you need to contact website provider and take the backup files and upload in your account. After that you can update the A record to blue host
+1:01 pm
+B
+where do i 
+see that coyac.org domain A record is not point to bluehost. can you show that?
+1:02 pm
+G
+Please access this link to check: https://dnschecker.org/#A/www.coyac.org
+
+And you can see the bluehost IP in :
+https://cpanel-box2411.bluehost.com/cpsess5741076584/frontend/bluehost/index.html?webpro=0&login=1&post_login=108217916657
+
+It has been a while since I have heard from you. Are you still with me? 
+1:09 pm
+B
+yes
+1:10 pm
+G
+Could you able to see that the difference in IP address?
+1:11 pm
+B
+that really doesn't mean anything to me. i want the domain to point to this html file. bluehost hosts the website and the instructions to redirect are not working. 
+why does the IP address matter?
+why does the domain A record need to point to bluehost? i can see in the cpanel that you can edit this. can i edit there?
+1:15 pm
+G
+The  IP address really matters .  Since the name server is not pointing to bluehost we can't update the A record from our side.
+1:21 pm
+B
+ok i will change that. so the coyac.org need sto be held at bluehost. bottomline
+1:29 pm
+G
+Sure. If you update the A record to bluehost You can host your website with us.
+1:30 pm
+B
+but coyac.org is hosted with bluehost but the domain is not correct?
+what does the A record need to be updated tio?
+1:32 pm
+As you wait for the next available agent, please feel free to browse our knowledge base website. You will find answers to common support questions
+Please wait for the next available agent
+You will be connected to an agent within 5 minutes
+Type your message here...
+Thank you for contacting Bluehost support. Please rate your support representative in the following areas from 1 to 5 (5 being the best).
+My representative was knowledgeable.
+
+
+
+
+
+My representative was courteous and willing to help.
+
+
+
+
+
+Did we resolve your issue today?
+Thank you for your valuable feedback! Let us know what we did well and what we can improve upon.
